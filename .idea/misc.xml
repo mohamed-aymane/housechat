@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/20aym/OneDrive/Bureau/stage/application/app/src/main/res/drawable-v24/designbutton.xml" value="0.1" />
+        <entry key="..\:/Users/20aym/OneDrive/Bureau/stage/application/app/src/main/res/drawable-v24/designinput.xml" value="0.1415" />
+        <entry key="..\:/Users/20aym/OneDrive/Bureau/stage/application/app/src/main/res/drawable-v24/ic_baseline_message_24.xml" value="0.1465" />
+        <entry key="..\:/Users/20aym/OneDrive/Bureau/stage/application/app/src/main/res/drawable-v24/ic_baseline_more_vert_24.xml" value="0.1" />
+        <entry key="..\:/Users/20aym/OneDrive/Bureau/stage/application/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/20aym/OneDrive/Bureau/stage/application/app/src/main/res/drawable-v24/receivechat.xml" value="0.1" />
+        <entry key="..\:/Users/20aym/OneDrive/Bureau/stage/application/app/src/main/res/drawable/borderimage.xml" value="0.1465" />
+        <entry key="..\:/Users/20aym/OneDrive/Bureau/stage/application/app/src/main/res/drawable/designinputmessage.xml" value="0.1" />
+        <entry key="..\:/Users/20aym/OneDrive/Bureau/stage/application/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.151" />
+        <entry key="..\:/Users/20aym/OneDrive/Bureau/stage/application/app/src/main/res/drawable/ic_baseline_arrow_forward_24.xml" value="0.1" />
+        <entry key="..\:/Users/20aym/OneDrive/Bureau/stage/application/app/src/main/res/drawable/ic_baseline_fast_forward_24.xml" value="0.112" />
+        <entry key="..\:/Users/20aym/OneDrive/Bureau/stage/application/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.1" />
+        <entry key="..\:/Users/20aym/OneDrive/Bureau/stage/application/app/src/main/res/drawable/ic_baseline_send_24.xml" value="0.1" />
+        <entry key="..\:/Users/20aym/OneDrive/Bureau/stage/application/app/src/main/res/drawable/sendchat.xml" value="0.1" />
+        <entry key="..\:/Users/20aym/OneDrive/Bureau/stage/application/app/src/main/res/layout/activity_about.xml" value="0.264" />
+        <entry key="..\:/Users/20aym/OneDrive/Bureau/stage/application/app/src/main/res/layout/activity_accueil.xml" value="0.264" />
+        <entry key="..\:/Users/20aym/OneDrive/Bureau/stage/application/app/src/main/res/layout/activity_authentification.xml" value="0.264" />
+        <entry key="..\:/Users/20aym/OneDrive/Bureau/stage/application/app/src/main/res/layout/activity_chat.xml" value="0.4" />
+        <entry key="..\:/Users/20aym/OneDrive/Bureau/stage/application/app/src/main/res/layout/activity_conversation.xml" value="0.16" />
+        <entry key="..\:/Users/20aym/OneDrive/Bureau/stage/application/app/src/main/res/layout/activity_profile.xml" value="0.2" />
+        <entry key="..\:/Users/20aym/OneDrive/Bureau/stage/application/app/src/main/res/layout/activity_save_number.xml" value="0.264" />
+        <entry key="..\:/Users/20aym/OneDrive/Bureau/stage/application/app/src/main/res/layout/activity_set_profil.xml" value="0.2" />
+        <entry key="..\:/Users/20aym/OneDrive/Bureau/stage/application/app/src/main/res/layout/activity_update_profil.xml" value="0.264" />
+        <entry key="..\:/Users/20aym/OneDrive/Bureau/stage/application/app/src/main/res/layout/callsfragment.xml" value="0.1" />
+        <entry key="..\:/Users/20aym/OneDrive/Bureau/stage/application/app/src/main/res/layout/chatfragment.xml" value="0.136" />
+        <entry key="..\:/Users/20aym/OneDrive/Bureau/stage/application/app/src/main/res/layout/chatview.xml" value="0.2" />
+        <entry key="..\:/Users/20aym/OneDrive/Bureau/stage/application/app/src/main/res/layout/normaltoolbar.xml" value="0.2" />
+        <entry key="..\:/Users/20aym/OneDrive/Bureau/stage/application/app/src/main/res/layout/recievemessage.xml" value="0.12132725430597771" />
+        <entry key="..\:/Users/20aym/OneDrive/Bureau/stage/application/app/src/main/res/layout/sendmessage.xml" value="0.2" />
+        <entry key="..\:/Users/20aym/OneDrive/Bureau/stage/application/app/src/main/res/layout/statusfragment.xml" value="0.1" />
+        <entry key="..\:/Users/20aym/OneDrive/Bureau/stage/application/app/src/main/res/menu/menu.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+
+    android:padding="2dp"
+    >
+    <RelativeLayout
+        android:id="@+id/layoutformessage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_marginRight="50dp"
+        android:background="@drawable/receivechat">
+
+        <TextView
+            android:id="@+id/sendermessage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="7dp"
+            android:paddingTop="7dp"
+            android:paddingRight="40dp"
+            android:paddingBottom="7dp"
+            android:text="Send message displau here "
+            android:textColor="@color/black"
+            android:textSize="18sp">
+
+        </TextView>
+        <TextView
+            android:id="@+id/timeofmessage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/sendermessage"
+            android:layout_alignBottom="@+id/sendermessage"
+            android:layout_marginLeft="-40dp"
+            android:textSize="10sp"
+            android:text="00:00"
+            android:textColor="@color/black"
+            android:padding="7dp"
+            />
+
+
+
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ActivitySaveNumber">
+
+    <ImageView
+        android:id="@+id/imglogo"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="80dp"
+        android:src="@drawable/logo"></ImageView>
+
+    <TextView
+        android:id="@+id/textheading"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imglogo"
+        android:padding="20dp"
+        android:text="Validez le numero de telephone par le code que tu as recu"
+        android:textAlignment="center"
+        android:textColor="@color/red"
+        android:textSize="20sp"
+        android:textStyle="bold"></TextView>
+
+    <EditText
+        android:id="@+id/getcode"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@+id/textheading"
+        android:layout_marginLeft="70dp"
+        android:layout_marginTop="64dp"
+        android:layout_marginRight="70dp"
+        android:background="@drawable/designinput"
+        android:hint="@string/code"
+        android:inputType="number"
+        android:padding="2dp"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+        android:textStyle="bold">
+
+    </EditText>
+
+    <TextView
+        android:id="@+id/ChangeNumber"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/getcode"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp"
+        android:text="@string/codent"
+        android:textColor="@color/red"
+        android:textSize="15sp"></TextView>
+
+    <android.widget.Button
+        android:id="@+id/btnSaveCode"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ChangeNumber"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="60dp"
+        android:background="@drawable/designbutton"
+        android:paddingLeft="60dp"
+        android:paddingRight="60dp"
+        android:text="@string/save"
+        android:textColor="@color/red"
+        android:textSize="18sp"
+        android:textStyle="bold"></android.widget.Button>
+
+    <ProgressBar
+        android:id="@+id/ProgressBarNumber"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnSaveCode"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:indeterminateTint="@color/red"
+        android:visibility="invisible"></ProgressBar>
+
+</RelativeLayout>
